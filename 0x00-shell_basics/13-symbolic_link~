@@ -1,2 +1,0 @@
-#!/bin/bash
-ln --symbolic [-T] /bin/ls __ls__ 
