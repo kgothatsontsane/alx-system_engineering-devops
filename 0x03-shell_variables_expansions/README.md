@@ -2,7 +2,7 @@
 
 ## Project Overview :mag:
 
-This project was completed during my **Full Stack Software Engineering studies** at **ALX School**. Its primary goal was to gain a deeper understanding of various shell concepts, including alias builtins, help builtins, local and global variables, as well as special parameters like `$?`. We also explored the usage of single and double quotes in the **Shell**.
+This project was completed during my **Full Stack Software Engineering studies** at **ALX AFRICA**. Its primary goal was to gain a deeper understanding of various shell concepts, including alias builtins, help builtins, local and global variables, as well as special parameters like `$?`. We also explored the usage of single and double quotes in the **Shell**.
 
 ## Technologies Used :gear:
 
@@ -20,4 +20,18 @@ All the following files are scripts:
 | `2-path`             | Adds `/action` to the `PATH`. `/action` should be the last directory the shell looks into when looking for a program |
 | `3-paths`            | Counts the number of directories in the `PATH` |
 | `4-global_variables` | Lists environment variables                     |
-| `5-local_variables`  | Lists all local variables, environment variables,
+| `5-local_variables`  | Lists all local variables, environment variables, and functions |
+| `6-create_local_variable` | Creates a new local variable named `BEST` |
+| `7-create_global_variable` | Creates a new global variable named `BEST` |
+| `8-true_knowledge`   | Prints the result of adding 128 to the value stored in the environment variable `TRUEKNOWLEDGE`, followed by a new line |
+| `9-divide_and_rule`  | Prints the result of `POWER` divided by `DIVIDE`, followed by a new line |
+| `10-love_exponent_breath` | Displays the result of `BREATH` to the power `LOVE` |
+| `11-binary_to_decimal` | Converts a number from base 2 to base 10 |
+| `12-combinations`    | Prints all possible combinations of two letters, except `oo` |
+| `13-print_float`     | Prints a number with two decimal places. The number is stored in the environment variable `NUM` |
+| `14-decimal_to_hexadecimal` | Converts a number from base 10 to base 16 |
+| `100-rot13`          | Encodes and decodes text using the rot13 encryption |
+| `101-odd`            | Prints every other line from the input, starting with the first line |
+| `102-water_and_str`  | Adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result |
+
+Let's continue learning and exploring the world of Shell scripting! :rocket:
