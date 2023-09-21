@@ -1,4 +1,4 @@
-≈ß≈ç# Shell, I/O Redirections and Filters :computer: :file_folder:
+# Shell, I/O Redirections and Filters :computer: :file_folder:
 
 ## Project Overview :mag:
 
