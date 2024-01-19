@@ -1,8 +1,8 @@
 # 🔥 Command Line For The Win 🔥
 
-[CMDCHALLENGE](https://cmdchallenge.com/) is an awesome game that challenges your Command Line skills. Everything is done via the command line and the questions are becoming increasingly complicated. It’s a good training to improve your command line skills!
+[CMDCHALLENGE](https://cmdchallenge.com/) is an awesome game that challenges your Command Line skills.
 
-I have provided the screenshots of my progress in the [CMDCHALLENGE](https:cmdchallenge.com/) and vthe tasks 0-9, 10-18, 19-27 in .png format.
+I have provided the screenshots of my progress in the [CMDCHALLENGE](https://cmdchallenge.com/) and the tasks 0-9, 10-18, 19-27 in .png format.
 
 The steps I have taken to use the SFTP command-line tool so that I can perform the file transfer using SFTP are as follows:
 
