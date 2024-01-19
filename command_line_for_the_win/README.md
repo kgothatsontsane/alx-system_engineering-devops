@@ -2,7 +2,7 @@
 
 [CMDCHALLENGE](https://cmdchallenge.com/) is an awesome game that challenges your Command Line skills. Everything is done via the command line and the questions are becoming increasingly complicated. It’s a good training to improve your command line skills!
 
-I have provided the screenshots of my progress in the [CMDCHALLENGE](https:cmdchallenge.com/) and the tasks 0-9, 10-18, 19-27 in .png format.
+I have provided the screenshots of my progress in the [CMDCHALLENGE](https:cmdchallenge.com/) and vthe tasks 0-9, 10-18, 19-27 in .png format.
 
 The steps I have taken to use the SFTP command-line tool so that I can perform the file transfer using SFTP are as follows:
 
@@ -10,7 +10,7 @@ The steps I have taken to use the SFTP command-line tool so that I can perform t
 Established a connection to the sandbox environment using the SFTP command-line tool with the following command:
 ```bash
 sftp 8c60a240e4fb@8c60a240e4fb.9b220f8f.alx-cod.online
-'''
+```
 which uses the host name and username. I was asked for a password and used the one provided to me for the sandbox environment.
 
 ## 2. 🚀 Navigating to the Target Directory
