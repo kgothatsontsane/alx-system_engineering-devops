@@ -23,26 +23,9 @@ to navigate to the directory and also used the command:
 ```bash
 pwd
 ```
-
-Certainly! Here's the start of section 2 in Markdown code:
-
-markdown
-Copy code
-## 2. 🚀 Navigating to the Target Directory
-Once connected, I navigate to the directory where I want to upload the screenshots, which is `/root/alx-system_engineering-devops/command_line_for_the_win/` directory.
-
-I use the command:
-
-```bash
-cd /root/alx-system_engineering-devops/command_line_for_the_win/
-to navigate to the directory and also used the command:
-
-bash
-Copy code
-pwd
 to confirm that I am indeed in the correct directory.
 
-## 3. 📤 Uploading Screenshots (Continued)
+## 3. 📤 Uploading Screenshots
 Use the SFTP `put` command to upload the screenshots from my local machine to my sandbox environment.
 
 Before I upload the screenshots to my sandbox environment, I have to locate them on my local machine first. I use the following command to navigate to the folder on my local machine that has the screenshots:
