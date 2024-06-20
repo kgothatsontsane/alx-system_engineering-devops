@@ -34,11 +34,11 @@ defaults
   timeout server 15s
   timeout http-request 10s
 
-frontend clickviral-tech-frontend
+frontend titan-tech-frontend
     bind *:80
     default_backend clickviral-tech-backend
 
-backend clickviral-tech-backend
+backend titan-tech-backend
     balance roundrobin
     server 526880-web-01 18.210.18.180:80 check
     server 526880-web-02 107.21.19.117:80 check
