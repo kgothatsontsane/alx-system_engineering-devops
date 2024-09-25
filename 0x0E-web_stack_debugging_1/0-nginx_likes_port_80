@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Add initial setup for nginx server=
+# Add initial setup for nginx server
 
 sudo apt-get update -y
 sudo apt-get install -y nginx
