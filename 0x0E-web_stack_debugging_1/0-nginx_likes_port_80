@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
-# Add initial setup for nginx server
+# Add initial setup for nginx server=
 
 sudo apt-get update -y
 sudo apt-get install -y nginx
 sudo service nginx enable
 sudo service nginx start
+cat /etc/nginx/sites-available/default > /etc/nginx/sites-available/default
 sudo service nginx restart
