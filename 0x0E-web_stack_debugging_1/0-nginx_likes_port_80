@@ -11,4 +11,5 @@ if ! grep -q "listen 80 default_server;" /etc/nginx/sites-enabled/default; then
     sudo mv /tmp/default.tmp /etc/nginx/sites-enabled/default
 fi
 
-sudo service nginx restart
+sudo systemctl restart nginx
+

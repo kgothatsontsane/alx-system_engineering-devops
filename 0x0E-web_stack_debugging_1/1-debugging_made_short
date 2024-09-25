@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 # debugging made it short
-apt-get -y update
-apt-get install -y nginx
-sudo service nginx start
+
+sudo systemctl restart nginx
